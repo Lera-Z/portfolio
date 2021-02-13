@@ -30,4 +30,7 @@ highlight_name: false
 title: Valeriya Zelenkova
 email: ""
 ---
-I am a student in the Cognitive Science MSc program at the University of Trento and SISSA. I am currently working with the [Visual Neuroscience Lab](https://people.sissa.it/~zoccolan/VisionLab/Home.html) under the supervision of [Prof. Davide Zoccolan](https://people.sissa.it/~zoccolan/VisionLab/Personnel.html). I am currently looking for PhD & research opportunities in Europe in the fields of clinical and cognitive neuroscience.
+I am a student in the Cognitive Science MSc program at the University of Trento and SISSA. I am currently working with the [Visual Neuroscience Lab](https://people.sissa.it/~zoccolan/VisionLab/Home.html) under the supervision of [Davide Zoccolan](https://people.sissa.it/~zoccolan/VisionLab/Personnel.html). I previously worked as a research assistant in the [Center for Language and Brain](https://www.hse.ru/en/neuroling/) at HSE under the supervision of [Svetlana Malyutina](https://www.hse.ru/en/staff/malyutina). 
+<br/>
+
+I am currently looking for PhD & research opportunities in Europe in the fields of clinical and cognitive neuroscience.
