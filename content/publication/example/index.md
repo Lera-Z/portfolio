@@ -1,87 +1,57 @@
 ---
-title: "An example conference paper"
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
-# and it will be replaced with their full name and linked to their profile.
+abstract: "Patient studies and brain stimulation evidence suggest that language
+  processing can be enhanced by altering the interhemispheric balance: namely,
+  preferentially enhancing left-hemisphere activity while suppressing
+  right-hemisphere activity. To our knowledge, no study has yet compared the
+  effects of such bilateral brain stimulation to both logically necessary
+  control conditions (separate left- and right-hemisphere stimulation). This
+  study did so in a between-group sham-controlled design, applying transcranial
+  direct current stimulation over Broca’s area and/or its homologue in 72
+  healthy participants. The effects were measured not only in a
+  single-word-level task but also in a sentence-level task, rarely tested
+  previously. We did not find either any significant overall effects of
+  stimulation or greater stimulation effects in the bilateral compared to
+  control groups. This null result, obtained in a large sample, contributes to
+  the debate on whether tDCS can modulate language processing in healthy
+  individuals."
+slides: ""
+url_pdf: ""
+publication_types:
+  - "2"
 authors:
-- admin
-- Robert Ford
-
-# Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-
-date: "2013-07-01T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
+  - Svetlana Malyutina and Valeriya Zelenkova and Olga Buivolova and Elise J.
+    Oosterhuis and Nikita Zmanovsky and Matteo Feurra
+summary: ""
+url_dataset: ""
+url_project: ""
+author_notes: []
+publication_short: ""
+url_source: ""
+url_video: ""
+publication: In Brain and Language, Vol. 186 pp. 60-66
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+date: 2021-02-13T14:08:32.144Z
+url_slides: ""
+title: "Modulating the interhemispheric balance in healthy participants with
+  transcranial direct current stimulation: No significant effects on word or
+  sentence processing"
+tags:
+  - tDCS
+  - tDCS in control participants
+  - Interhemispheric competition
+  - Language processing
+  - Sentence comprehension
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: "Electrode placement across experimental conditions. Color-coding:
+    anode green, cathode red."
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+  filename: 3-figure1-1.png
+  alt_text: "Electrode placement across experimental conditions. Color-coding:
+    anode green, cathode red."
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
+doi: https://doi.org/10.1016/j.bandl.2018.09.004
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
