@@ -15,7 +15,7 @@ abstract: "Patient studies and brain stimulation evidence suggest that language
   the debate on whether tDCS can modulate language processing in healthy
   individuals."
 slides: ""
-url_pdf: ""
+url_pdf: "https://www.researchgate.net/profile/Svetlana_Malyutina/publication/328006802_Modulating_the_interhemispheric_balance_in_healthy_participants_with_transcranial_direct_current_stimulation_No_significant_effects_on_word_or_sentence_processing/links/5bb27dde92851ca9ed33ae71/Modulating-the-interhemispheric-balance-in-healthy-participants-with-transcranial-direct-current-stimulation-No-significant-effects-on-word-or-sentence-processing.pdf"
 publication_types:
   - "2"
 authors:
@@ -30,7 +30,7 @@ url_source: ""
 url_video: ""
 publication: In Brain and Language, Vol. 186 pp. 60-66
 featured: true
-date: 2021-02-13T14:08:32.144Z
+date: 2018-11-01T00:00:00.000Z
 url_slides: ""
 title: "Modulating the interhemispheric balance in healthy participants with
   transcranial direct current stimulation: No significant effects on word or
@@ -47,7 +47,7 @@ image:
     anode green, cathode red."
   focal_point: ""
   preview_only: false
-  filename: 3-figure1-1.png
+  filename: featured.png
   alt_text: "Electrode placement across experimental conditions. Color-coding:
     anode green, cathode red."
 publishDate: 2017-01-01T00:00:00Z
