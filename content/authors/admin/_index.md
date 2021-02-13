@@ -1,77 +1,34 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+role: MSc Cognitive Science Student
+avatar_filename: https://avatars.githubusercontent.com/u/16264491?s=400&u=562fdb9fd15b1b4a0b389a4c8b6ebbf66d2380de&v=4
+bio: My research interests include lorem ipsum dolor sit amet
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
+  - Cognitive Science
+  - Computational Linguistics
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=DNjox4AAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/Lera-Z
+organizations:
+  - name: Centre for Mind/Brain Sciences (CIMeC), University of Trento
+    url: https://www.cimec.unitn.it/en
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Highlight the author in author lists? (true/false)
+    - course: MSc in Cognitive Science
+      institution: University of Trento & SISSA, Italy
+      year: ""
+    - course: BSc in Fundamental and Computational Linguistics
+      institution: HSE University, Moscow (RU)
+      year: 2017
+superuser: true
 highlight_name: false
+title: Valeriya Zelenkova
+email: ""
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ornare felis lorem, in tincidunt lacus commodo at. Nullam lacinia dui vitae tortor volutpat volutpat. Integer vulputate odio eu nunc venenatis, ut eleifend nisl dapibus. Nullam maximus justo in felis venenatis, ullamcorper ullamcorper lacus dignissim. Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur fringilla accumsan iaculis. Proin efficitur tincidunt lectus, vitae gravida libero pretium sit amet. Donec sit amet vestibulum tortor. In neque sapien, auctor condimentum fermentum et, mattis in tellus. Ut hendrerit risus sed urna commodo, sit amet molestie sem pulvinar. Quisque sed purus at leo aliquet cursus. Praesent at leo vitae tortor laoreet pharetra. Donec rutrum neque dolor, ac suscipit ex pellentesque in.
