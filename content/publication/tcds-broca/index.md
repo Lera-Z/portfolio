@@ -3,9 +3,9 @@ abstract: ""
 slides: ""
 url_pdf: ""
 publication_types:
-  - "8"
+- "8"
 authors: 
-- Valeriya Zelenkova and Svetlana Malyutina and Matteo Feurra
+- Valeriya Zelenkova, Svetlana Malyutina and Matteo Feurra
 summary: ""
 url_dataset: ""
 url_project: ""

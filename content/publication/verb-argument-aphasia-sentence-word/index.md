@@ -3,9 +3,9 @@ abstract: "The study investigated whether more linguistically complex VAS univer
 slides: ""
 url_pdf: "https://www.researchgate.net/profile/Svetlana_Malyutina/publication/337996984_Verb_argument_structure_effects_in_aphasia_are_different_at_single-word_versus_sentence_level/links/5dfa03fba6fdcc283728fc40/Verb-argument-structure-effects-in-aphasia-are-different-at-single-word-versus-sentence-level.pdf"
 publication_types:
-  - "2"
+- "2"
 authors:
-  - Svetlana Malyutina and Valeriya Zelenkova
+- Svetlana Malyutina and Valeriya Zelenkova
 summary: ""
 url_dataset: ""
 url_project: ""

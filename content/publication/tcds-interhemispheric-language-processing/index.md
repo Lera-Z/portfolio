@@ -9,10 +9,9 @@ links:
   icon: file-contract
 
 publication_types:
-  - "8"
+- "8"
 authors: 
-  - Svetlana Malyutina and Valeriya Zelenkova and Olga Buivolova and Elise J.
-    Oosterhuis and Nikita Zmanovsky and Matteo Feurra
+- Svetlana Malyutina and Valeriya Zelenkova and Olga Buivolova and Elise J.Oosterhuis and Nikita Zmanovsky and Matteo Feurra
 summary: ""
 url_dataset: ""
 url_project: ""

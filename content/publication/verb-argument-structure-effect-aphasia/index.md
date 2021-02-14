@@ -8,7 +8,7 @@ links:
   icon_pack: fas
   icon: file-contract
 publication_types:
-  - "8"
+- "8"
 authors:
 - Svetlana Malyutina and Valeriya Zelenkova
 summary: ""

@@ -3,7 +3,7 @@ abstract: "The connectivity between perisylvian language areas is subserved by t
 slides: ""
 url_pdf: "http://www.cogjournal.ru/6/1/pdf/ZyryanovetalRJCS2019.pdf"
 publication_types:
-  - "2"
+- "2"
 authors: 
 - Andrey Zyryanov and Valeriya Zelenkova and Svetlana Malyutina and Ekaterina Stupina and Viktor Karpychev and Elisaveta Gordeyeva and Valeriya Zhirnova and Anna Artemova and Valeriya Tolkacheva and Andrey Zuev and Nikita Pedyash and Oleg Bronov and Dmitriy Kopachev and Igor Pronin and Olga Dragoy
 summary: ""

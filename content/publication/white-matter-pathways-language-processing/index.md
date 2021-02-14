@@ -8,7 +8,7 @@ links:
   icon_pack: fas
   icon: file-contract
 publication_types:
-  - "8"
+- "8"
 authors: 
 - Andrey Zyryanov and Valeriya Zelenkova and Svetlana Malyutina and Ekaterina Stupina and Viktor Karpychev and Elisaveta Gordeyeva and Valeriya Zhirnova and Anna Artemova and Valeriya Tolkacheva and Andrey Zuev and Nikita Pedyash and Oleg Bronov and Dmitriy Kopachev and Igor Pronin and Olga Dragoy
 summary: ""
