@@ -17,10 +17,9 @@ abstract: "Patient studies and brain stimulation evidence suggest that language
 slides: ""
 url_pdf: "https://www.researchgate.net/profile/Svetlana_Malyutina/publication/328006802_Modulating_the_interhemispheric_balance_in_healthy_participants_with_transcranial_direct_current_stimulation_No_significant_effects_on_word_or_sentence_processing/links/5bb27dde92851ca9ed33ae71/Modulating-the-interhemispheric-balance-in-healthy-participants-with-transcranial-direct-current-stimulation-No-significant-effects-on-word-or-sentence-processing.pdf"
 publication_types:
-  - "2"
+- "2"
 authors:
-  - Svetlana Malyutina and Valeriya Zelenkova and Olga Buivolova and Elise J.
-    Oosterhuis and Nikita Zmanovsky and Matteo Feurra
+- Svetlana Malyutina and Valeriya Zelenkova and Olga Buivolova and Elise J.    Oosterhuis and Nikita Zmanovsky and Matteo Feurra
 summary: ""
 url_dataset: ""
 url_project: ""
